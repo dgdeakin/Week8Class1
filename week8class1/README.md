@@ -1,6 +1,6 @@
 # week8class1
 
-![Alt text](<Screenshot 2023-09-05 at 12.31.10 pm.png>)
+![Image](screenshot.png)
 
 This template should help get you started developing with Vue 3 in Vite.
 
